@@ -1,0 +1,23 @@
+C:\Users\user\Desktop\projects\remove memory\remove memory\obj\Debug\remove_memory.Form1.resources
+C:\Users\user\Desktop\projects\remove memory\remove memory\obj\Debug\remove_memory.Properties.Resources.resources
+C:\Users\user\Desktop\projects\remove memory\remove memory\obj\Debug\remove memory.csproj.GenerateResource.cache
+C:\Users\user\Desktop\projects\remove memory\remove memory\obj\Debug\remove memory.csproj.CoreCompileInputs.cache
+C:\Users\user\Desktop\projects\remove memory\remove memory\bin\Debug\remove memory.exe.config
+C:\Users\user\Desktop\projects\remove memory\remove memory\bin\Debug\remove memory.exe
+C:\Users\user\Desktop\projects\remove memory\remove memory\bin\Debug\remove memory.pdb
+C:\Users\user\Desktop\projects\remove memory\remove memory\obj\Debug\remove memory.exe
+C:\Users\user\Desktop\projects\remove memory\remove memory\obj\Debug\remove memory.pdb
+C:\Users\user\Desktop\projects\remove memory\remove memory\obj\Debug\remove_memory.login.resources
+C:\Users\user\Desktop\projects\remove memory\remove memory\obj\Debug\remove memory.csproj.AssemblyReference.cache
+D:\projects\remove memory\remove memory\bin\Debug\remove memory.exe.config
+D:\projects\remove memory\remove memory\bin\Debug\remove memory.exe
+D:\projects\remove memory\remove memory\bin\Debug\remove memory.pdb
+D:\projects\remove memory\remove memory\obj\Debug\remove_memory.Form1.resources
+D:\projects\remove memory\remove memory\obj\Debug\remove_memory.Properties.Resources.resources
+D:\projects\remove memory\remove memory\obj\Debug\remove memory.csproj.GenerateResource.cache
+D:\projects\remove memory\remove memory\obj\Debug\remove memory.csproj.CoreCompileInputs.cache
+D:\projects\remove memory\remove memory\obj\Debug\remove memory.exe
+D:\projects\remove memory\remove memory\obj\Debug\remove memory.pdb
+D:\projects\remove memory\remove memory\bin\Debug\Boltlib.dll
+D:\projects\remove memory\remove memory\obj\Debug\remove memory.csproj.CopyComplete
+D:\projects\remove memory\remove memory\obj\Debug\remove memory.csproj.AssemblyReference.cache
